@@ -38,7 +38,7 @@ Follow these steps for completing your project.
 Your challenge for this module: write tests for both the `App.js` component and the `Episodesjs` component. Take note of where the state is being managed, where the async call is, and where different data peices are being rendered. Understanding all of this will be important so you know how to test each component.
 
 **Moving the async call**
-
+asdfasdfasdf
 The async call being inside the component makes it hard to test the asynchronous nature of the component. Let's move the async function into an `/api` directory so we can easily mock that function and make the async tests easier.
 
 1. Create a directory called `/api` in the `src` directory
